@@ -19,7 +19,7 @@ The Tableau Public dashboard provides interactive visualizations of stock prices
 
 ### Link to Tableau Public Dashboard
 
-Click [here](https://public.tableau.com/views/NASDAQStockDashboard_16206741700550/Dashboard1) to access the dashboard on Tableau Public.
+Click [here](https://public.tableau.com/app/profile/shivendra.singh.raghav/viz/NASDAQ_16828379539410/Dashboard) to access the dashboard on Tableau Public.
 
 ## Files
 
